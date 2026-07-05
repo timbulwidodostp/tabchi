@@ -2,4 +2,4 @@
 1
 2
 3
-p cstat_surv Calculate C-statistic for survival models Use cstat_surv With STATA 19
+p tabchi Two-way tables of frequencies with chi-square and residuals Use tabchi With STATA 19
