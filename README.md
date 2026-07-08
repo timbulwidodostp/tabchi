@@ -1,6 +1,8 @@
 # tabchi
 Two-way tables of frequencies with chi-square and residuals Use tabchi With STATA 19
 
+https://www.youtube.com/watch?v=c8_x2JRLX3A
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
